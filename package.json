@@ -1,5 +1,5 @@
 {
-  "name": "uno-online",
+  "name": "arya-uno",
   "version": "1.0.0",
   "description": "Online multiplayer card game",
   "main": "server.js",
