@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aryabagde/uno_card.git"
+    "url": "git+https://git.heroku.com/arya-uno.git"
   },
   "author": "Mizan Ali",
   "license": "ISC",
   "bugs": {
     "url": ""
   },
-  "homepage": "https://github.com/aryabagde/uno_card",
+  "homepage": " https://git.heroku.com/arya-uno.git",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.1",
